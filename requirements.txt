@@ -2,3 +2,6 @@ pyrogram==2.0.106
 TgCrypto
 rarfile
 humanize
+hachoir
+Pillow
+ffmpeg-python
